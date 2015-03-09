@@ -124,6 +124,7 @@ div.add-item{
 	background-color:rgba(0,0,0,.25);
 	font-size:12px;
 	border: none;
-
-
+	overflow:scroll;
+	width:100px;
+	height:100px;
 }
